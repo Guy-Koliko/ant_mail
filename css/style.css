@@ -1,0 +1,46 @@
+.newnav{
+  height: 100%;
+  background-color: red;
+  padding: 10px;
+}
+
+.img-size{
+  padding: 6px;
+  margin: 6px;
+  width: 90px;
+  height: 90px;
+  border-radius: 90px;
+  border:  rgb(69, 91, 214)  solid 2px;
+}
+.navbar{
+  height: 100px;
+}
+.banner-me{
+  color: rgb(69, 91, 214);
+}
+.nav-item{
+  border-bottom: 1px solid grey;
+  padding: 6px;
+}
+
+.shape-it{
+  border-radius: 10px;
+  border: 1px solid black
+}
+.side-navs{
+  float: left;
+  background-color: gray;
+}
+.main-left{
+  float: left;
+}
+.spans{
+ padding: 10px;
+  border-radius: 360px;
+  border:1px solid black;
+  background-color: red;
+}
+.mail{
+  width: 700px;
+  margin: 10px;
+}
